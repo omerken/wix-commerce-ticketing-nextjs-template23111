@@ -1023,8 +1023,8 @@ __metadata:
   linkType: hard
 
 "@wix/ecom@npm:^1.0.474":
-  version: 1.0.619
-  resolution: "@wix/ecom@npm:1.0.619"
+  version: 1.0.620
+  resolution: "@wix/ecom@npm:1.0.620"
   dependencies:
     "@wix/ecom_abandoned-checkouts": 1.0.29
     "@wix/ecom_additional-fees": 1.0.7
@@ -1045,9 +1045,9 @@ __metadata:
     "@wix/ecom_orders-settings": 1.0.29
     "@wix/ecom_payment-settings": 1.0.12
     "@wix/ecom_recommendations": 1.0.26
-    "@wix/ecom_shipping-rates": 1.0.16
+    "@wix/ecom_shipping-rates": 1.0.17
     "@wix/ecom_validations": 1.0.9
-  checksum: 378adf6364c9c1bfaf987ac4c1ba0d1d254969596dfe2a685f4f8e704c0265f076ace2d8a7f51e4bb9dad918bb38336b4da6f8a46171c254bb04754f1601602e
+  checksum: ec360aebedb87aa1cdc4e9c73c81b6b8618b6dd58b65b88b49d86b0a65c658ac9e21174cf3f2856a78dc510c87aa87c777db3fd170b23abfc03e65d03e5fa378
   languageName: node
   linkType: hard
 
@@ -1279,15 +1279,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/ecom_shipping-rates@npm:1.0.16":
-  version: 1.0.16
-  resolution: "@wix/ecom_shipping-rates@npm:1.0.16"
+"@wix/ecom_shipping-rates@npm:1.0.17":
+  version: 1.0.17
+  resolution: "@wix/ecom_shipping-rates@npm:1.0.17"
   dependencies:
     "@wix/metro-runtime": ^1.1696.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
     "@wix/sdk-runtime": ^0.2.12
     "@wix/sdk-types": ^1.7.1
-  checksum: e3dc28d7de13a3e18cd9ef10c7259fb7ffdab89cc3f475aa236ead70e3327dbc6d23d444517f5820a2519e9eeede8252b331b14c39eeaaa8261854f7c76f798d
+  checksum: 0f9e0c620108907fc4bbfbd1923157a840d8960895aa5c61f406f87cb430daad35ef4f47e9a6d08855d9f471e25e9d1308c8934a7f93b38c8696cf97d3714902
   languageName: node
   linkType: hard
 
